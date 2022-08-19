@@ -1,6 +1,6 @@
-import telegram
 import os
 
+import telegram
 from dotenv import load_dotenv 
 
 load_dotenv()
